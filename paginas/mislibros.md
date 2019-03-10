@@ -161,6 +161,10 @@ jóvenes o niños._
 {{ libro "Ojo de Nube"
           página: sm/ojodenube
           imágen: sm/ojo-de-nube-esp-peq.jpg }}
+          
+{{ libro "Caballos en la nieve"
+          página: sm/caballos
+          imágen: sm/cub-caballos170.jpg }}
 
 {{ libro "Cuentos crudos"
           página: sm/cuentoscrudos-ga
